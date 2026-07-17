@@ -13,7 +13,20 @@
 <br/>
 
 
-## &nbsp;◆&nbsp; Tech Stack
+## &nbsp;▹&nbsp; Core Expertise
+
+**🎮 Game Development** &nbsp;—&nbsp; games on Unity for **PC · mobile · WebGL**: game logic, architecture, and performance optimization.
+
+**🥽 XR (VR / MR)** &nbsp;—&nbsp; a bit of VR/MR: interactive, immersive solutions for XR devices.
+
+**⚙️ Mechatronics** &nbsp;—&nbsp; a bit of hardware: interactive projects for mechatronic capsules and control logic for hardware modules.
+
+**🎨 3D Art** &nbsp;—&nbsp; modeling, sculpting, texturing — full asset production pipeline.
+
+<br/>
+
+
+## &nbsp;▹&nbsp; Tech Stack
 
 <div align="center">
 
